@@ -73,6 +73,7 @@ While the core WholeStack manufacturing factory remains proprietary, we publish 
 
 | Repository | Focus | Highlights |
 | :--- | :--- | :--- |
+| **[`WholestackAI/isl`](https://github.com/WholestackAI/isl)** | Open Language Standard | Closed-world contract language, AST parser (`@isl-lang/parser`), typechecker (`@isl-lang/typechecker`), and formal specification (MIT). |
 | **[`WholestackAI/volition-proof`](https://github.com/WholestackAI/volition-proof)** | Public Authority Kernel | Runnable Volition governor + 15-attack adversarial gauntlet. 19 ungoverned control breaches, 0 Volition breaches. |
 | **[`WholestackAI/volition-releases`](https://github.com/WholestackAI/volition-releases)** | Desktop Client | Official Volition Hub installers for macOS and Windows. |
 
